@@ -1,0 +1,25 @@
+.imgAv{
+    width: 12%;
+    height: 12%;
+    border: solid #fff 1px;
+    border-radius: 50%;
+    margin-left: -28%;
+}
+
+
+
+.divInFooter{
+    display: flex;
+    justify-content: center;
+}
+
+
+.pInFooter{
+    color: #7b90af;
+    margin-left: 10px;
+}
+
+
+.spanInFooter{
+    color: #fff;
+}

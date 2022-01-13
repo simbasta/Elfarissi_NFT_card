@@ -1,0 +1,24 @@
+.card {
+    width: 23%;
+    border-radius: 14px;
+    background-color: #15273f;
+    position: absolute;
+    top: 10%;
+    left: 38%;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    /* text-align: end; */
+    align-items: center;
+}
+
+
+
+.hrOk{
+    width: 83%;
+    
+    border: solid #2e4058 1px;
+    
+
+}
