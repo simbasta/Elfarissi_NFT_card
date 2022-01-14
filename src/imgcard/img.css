@@ -1,5 +1,27 @@
-.imgCard {
+#imgCard {
     margin-top: 26px;
     width: 275px;
     border-radius: 7px;
+    position: relative;
+}
+
+.d-none{
+    display: none;
+}
+
+.divImgCard{
+    position: relative;
+}
+
+#iconVue {
+    border-radius: 7px;
+        background-color: rgb(13, 64, 77);
+        background-color: rgba(12, 187, 240, 0.6);
+    top: 9%;
+    width: 60%;
+    height: 48%;
+    left: 0%;
+    padding-top: 46%;
+    padding-left: 40%;
+    position: absolute;
 }
